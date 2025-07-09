@@ -102,7 +102,7 @@ Schedule:
   </tr>
         <tr>
     <td>Th 3/12</td>
-        <td> Continuous stratification </td>
+        <td> Reflections </td>
     <td></td>
   </tr>
         <tr>
@@ -117,12 +117,12 @@ Schedule:
   </tr>
         <tr>
     <td>Tu 3/23</td>
-    <td> Lab 3: internal waves </td>
+    <td> Continuous stratification </td>
     <td></td>
   </tr>
     <tr>
     <td>Th 3/25</td>
-    <td> </td>
+    <td>Lab 3: internal waves </td>
     <td></td>
         <tr>
     <td>Tu 3/30</td>
