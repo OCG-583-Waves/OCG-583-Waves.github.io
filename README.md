@@ -69,12 +69,12 @@ Schedule:
   </tr>
         <tr>
     <td>Tu 2/24</td>
-    <td> Surface waves 4 </td>
+    <td> OSM </td>
     <td></td>
   </tr>
     <tr>
     <td>Th 2/26</td>
-    <td> Nonlinear effects </td>
+    <td> OSM </td>
     <td></td>
   </tr>
     <tr>
