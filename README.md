@@ -44,35 +44,30 @@ Schedule:
   <tr>
     <td>Tu 2/3</td>
     <td> Group velocity: kinematics and dynamics </td>
-    <td></td>
+    <td> Whitham </td>
   </tr>
     <tr>
     <td>Th 2/5</td>
-    <td> Acoustics </td>
-    <td></td>
+    <td> Surface gravity waves 1 </td>
+    <td>Kundu, Whitham </td>
   </tr>
     <tr>
     <td>Tu 2/10</td>
-    <td> Acoustics II </td>
-    <td></td>
+    <td> Surface gravity waves 2 </td>
+    <td>Kundu, Whitham </td>
      <tr>
     <td>Th 2/12</td>
-    <td> Ray eqnts </td>
+    <td> Lab 1: surface waves </td>
     <td></td>
   </tr>
     <tr>
     <td>Tu 2/17</td>
-    <td> Surface waves 1 </td>
+    <td> Surface wave dynamics </td>
     <td></td>
   </tr>
      <tr>
     <td>Th 2/19</td>
-    <td> Surface waves 2 </td>
-    <td></td>
-  </tr>
-        <tr>
-    <td>Th 2/19 </td>
-    <td> Surface waves 3 </td>
+    <td> The ray equations and wave modelling </td>
     <td></td>
   </tr>
         <tr>
@@ -87,22 +82,27 @@ Schedule:
   </tr>
     <tr>
     <td>Tu 3/3</td>
-    <td> 2 layer fluid </td>
+    <td> Surface waves 3 </td>
     <td></td>
   </tr>
         <tr>
     <td>Th 3/5</td>
-    <td> Continuous stratification </td>
+    <td> Nonlinear waves </td>
+    <td></td>
+  </tr>
+            <tr>
+    <td>Th 3/5</td>
+    <td> Lab 2: Nonlinear waves </td>
     <td></td>
   </tr>
         <tr>
     <td>Tu 3/10</td>
-    <td> Internal wave reflection </td>
+    <td> 2 layer fluid </td>
     <td></td>
   </tr>
         <tr>
     <td>Th 3/12</td>
-    <td> Long waves -- the hydrostatic approximation </td>
+        <td> Continuous stratification </td>
     <td></td>
   </tr>
         <tr>
@@ -117,61 +117,61 @@ Schedule:
   </tr>
         <tr>
     <td>Tu 3/23</td>
-    <td> Shallow water equations </td>
+    <td> Lab 3: internal waves </td>
     <td></td>
   </tr>
     <tr>
     <td>Th 3/25</td>
-    <td> Rossby waves/planetary waves </td>
+    <td> </td>
     <td></td>
         <tr>
     <td>Tu 3/30</td>
-    <td> Rossby waves/planetary waves </td>
+    <td>  </td>
     <td></td>
   </tr>
       <tr>
     <td>Th 4/1</td>
-    <td> The role of topography </td>
+    <td>  </td>
     <td></td>
   </tr>
           <tr>
     <td>Tu 4/3</td>
-    <td> Kelvin waves </td>
+    <td>Shallow water equations  </td>
     <td></td>
   </tr>
     <tr>
     <td>Tu 4/8</td>
-    <td> Equatorial waves </td>
+    <td> Rossby waves/planetary waves </td>
     <td></td>
   </tr>
         <tr>
     <td>Th 4/10</td>
-    <td> </td>
+    <td> Topographic waves</td>
     <td></td>
   </tr>
             <tr>
     <td>Tu 4/15</td>
-    <td> </td>
+    <td> Kelvin waves </td>
     <td></td>
   </tr>
             <tr>
     <td>Th 4/17</td>
-    <td> </td>
+    <td> Equatorial waves</td>
     <td></td>
   </tr>
             <tr>
     <td>Tu 4/22</td>
-    <td> </td>
+    <td>Lab 4: planetary waves </td>
     <td></td>
   </tr>
             <tr>
     <td>Th 4/24</td>
-    <td> </td>
+    <td> Final project presentations </td>
     <td></td>
   </tr>
             <tr>
     <td>Tu 4/29</td>
-    <td> </td>
+    <td> Review </td>
     <td></td>
   </tr>
 </table>
