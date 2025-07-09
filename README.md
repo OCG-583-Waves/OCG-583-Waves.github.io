@@ -8,7 +8,15 @@ Textbooks: There is not one textbook that will cover all of this material. More 
 Vibrations and waves by AP French. The physics of waves by H. Georgi. 
 More advanced books: Waves in fluids by Lighthill. Linear and nonlinear waves by Whitham. Fluid mechanics by Kundu and Cohen. Atmospheric and oceanic fluid dynamics by Vallis. 
 
-Grading: Homework 40%, Labs 20%, Midterm 20%, Final 20%. 
+Lab assignments: This class will involve a number of in class demonstrations, as well as four laboratory assignments. The labs will be conducted in class and afterwards each student will be responsible for analyzing the data and writing up their results in a formal lab report. 
+
+Homework: There will be a number of homework assignments throughout the semester. 
+
+Collaboration: Students are encouraged to work together but must write up their own solutsion to the homework assignments and laboratory reports. 
+
+Software: This class will involve in class lessons on Mathematica. You will also maintain your own github repo to submit homeworks and lab assignments. 
+
+Grading: Homework 40%, Labs 20%, Midterm 20%, Final project 20%. 
 
 Schedule:
 
