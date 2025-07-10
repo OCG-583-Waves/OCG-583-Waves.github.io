@@ -82,12 +82,12 @@ Schedule:
   </tr>
     <tr>
     <td>Tu 3/3</td>
-    <td> Surface waves 3 </td>
+    <td> Nonlinear waves 1</td>
     <td></td>
   </tr>
         <tr>
     <td>Th 3/5</td>
-    <td> Nonlinear waves </td>
+    <td> Nonlinear waves 2</td>
     <td></td>
   </tr>
             <tr>
@@ -102,7 +102,7 @@ Schedule:
   </tr>
         <tr>
     <td>Th 3/12</td>
-        <td> Reflections </td>
+        <td> Continuous stratification </td>
     <td></td>
   </tr>
         <tr>
@@ -117,7 +117,7 @@ Schedule:
   </tr>
         <tr>
     <td>Tu 3/23</td>
-    <td> Continuous stratification </td>
+    <td> Reflections </td>
     <td></td>
   </tr>
     <tr>
@@ -126,12 +126,12 @@ Schedule:
     <td></td>
         <tr>
     <td>Tu 3/30</td>
-    <td>  </td>
+    <td> Wave current interaction 1 </td>
     <td></td>
   </tr>
       <tr>
     <td>Th 4/1</td>
-    <td>  </td>
+    <td>  Wave current interaction 2 </td>
     <td></td>
   </tr>
           <tr>
@@ -166,12 +166,12 @@ Schedule:
   </tr>
             <tr>
     <td>Th 4/24</td>
-    <td> Final project presentations </td>
+    <td> Final project presentations 1</td>
     <td></td>
   </tr>
             <tr>
     <td>Tu 4/29</td>
-    <td> Review </td>
+    <td> Final project presentations 2 </td>
     <td></td>
   </tr>
 </table>
