@@ -14,7 +14,7 @@ Homework: There will be a number of homework assignments throughout the semester
 
 Collaboration: Students are encouraged to work together but must write up their own solutsion to the homework assignments and laboratory reports. 
 
-Software: This class will involve in class lessons on Mathematica. You will also maintain your own github repo to submit homeworks and lab assignments. Students should plan on bringing their laptops to class. Mathematica is available to all URI students (more info [here](https://its.uri.edu/services/it-service-mathematica/)).
+Software: This class will involve in class lessons on Mathematica. You will also maintain your own github repo to submit homeworks and lab assignments. Students should plan on bringing their laptops to class. Mathematica is available to all URI students (more info [here](https://its.uri.edu/services/it-service-mathematica/)). Jupyter notebooks will also be used. 
 
 Grading: Homework 40%, Labs 20%, Midterm 20%, Final project 20%. 
 
@@ -33,8 +33,7 @@ Schedule:
   </tr>
   <tr>
     <td>Tu 1/27 </td>
-    <td>Properties of harmonic oscillators: the pendulum \n
-    Intro to Mathematica, Jupyter notebooks
+    <td>Properties of harmonic oscillators
     </td>
     <td> Georgi's book </td>
   </tr>
