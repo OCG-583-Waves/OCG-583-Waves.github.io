@@ -33,7 +33,9 @@ Schedule:
   </tr>
   <tr>
     <td>Tu 1/27 </td>
-    <td>Properties of harmonic oscillators: the pendulum </td>
+    <td>Properties of harmonic oscillators: the pendulum 
+    Intro to Mathematica, Jupyter notebooks
+    </td>
     <td> Georgi's book </td>
   </tr>
     <tr>
