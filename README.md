@@ -1,4 +1,4 @@
-# OCG 613 Graduate Waves Spring 2026
+# OCG 583 Graduate Waves Spring 2026
 
 Welcome to OCG 583 Graduate Waves taught at URI GSO by Prof. Nick Pizzo. My office is Watkins 214
 
