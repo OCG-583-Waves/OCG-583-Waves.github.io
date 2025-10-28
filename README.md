@@ -117,51 +117,51 @@ Schedule:
         <tr>
     <td>Tu 3/23</td>
     <td> Reflections </td>
-    <td></td>
+    <td>Phillips</td>
   </tr>
     <tr>
     <td>Th 3/25</td>
     <td>Lab 3: internal waves </td>
-    <td></td>
+    <td>Phillips, Kundu</td>
         <tr>
     <td>Tu 3/30</td>
     <td> Wave current interaction 1 </td>
-    <td></td>
+    <td>Phillips</td>
   </tr>
       <tr>
     <td>Th 4/1</td>
     <td>  Wave current interaction 2 </td>
-    <td></td>
+    <td>Phillips</td>
   </tr>
           <tr>
     <td>Tu 4/3</td>
     <td>Shallow water equations  </td>
-    <td></td>
+    <td>Kundu</td>
   </tr>
     <tr>
     <td>Tu 4/8</td>
     <td> Rossby waves/planetary waves </td>
-    <td></td>
+    <td>Vallis, Salmon</td>
   </tr>
         <tr>
     <td>Th 4/10</td>
     <td> Topographic waves</td>
-    <td></td>
+    <td>Vallis, Salmon</td>
   </tr>
             <tr>
     <td>Tu 4/15</td>
     <td> Kelvin waves </td>
-    <td></td>
+    <td>Kundu, Vallis, Salmon</td>
   </tr>
             <tr>
     <td>Th 4/17</td>
     <td> Equatorial waves</td>
-    <td></td>
+    <td>Vallis</td>
   </tr>
             <tr>
     <td>Tu 4/22</td>
     <td>Lab 4: planetary waves </td>
-    <td></td>
+    <td>Vallis, Salmon</td>
   </tr>
             <tr>
     <td>Th 4/24</td>
