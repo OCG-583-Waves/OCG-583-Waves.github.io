@@ -4,7 +4,7 @@ Welcome to OCG 583 Graduate Waves taught at URI GSO by Prof. Nick Pizzo. My offi
 
 Time and Location: Tuesday/Thursday 2-315: Watkins basement. 
 
-Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. For introductory books on waves, check out "Vibrations and waves" by AP French, "The physics of waves" by H. Georgi. More advanced books are "Waves in fluids" by Lighthill and "Linear and nonlinear waves" by Whitham. "Fluid mechanics" by Kundu and Cohen has background material on fluid mechanics. Finally,"Lectures on GFD" by Salmon and  "Atmospheric and oceanic fluid dynamics" by Vallis will be relevant for geophysical applications. 
+Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. For introductory books on waves, check out "Vibrations and waves" by AP French, "The physics of waves" by H. Georgi. More advanced books are "Waves in fluids" by Lighthill, "The Dynamics of the upper ocean" by Phillips and "Linear and nonlinear waves" by Whitham. "Fluid mechanics" by Kundu and Cohen has background material on fluid mechanics. Finally,"Lectures on GFD" by Salmon and  "Atmospheric and oceanic fluid dynamics" by Vallis will be relevant for geophysical applications. For math background, "Perturbation methods" by Nayfeh and Lancoz's book on "Variational Methods" are useufl. 
 
 Lab assignments: This class will involve a number of in class demonstrations, as well as four laboratory assignments. The labs will be conducted in class and afterwards each student will be responsible for analyzing the data and writing up their results in a formal lab report. 
 
@@ -57,17 +57,17 @@ Schedule:
      <tr>
     <td>Th 2/12</td>
     <td> Lab 1: surface waves </td>
-    <td></td>
+    <td>Kundu, Whitham</td>
   </tr>
     <tr>
     <td>Tu 2/17</td>
     <td> Surface wave dynamics </td>
-    <td></td>
+    <td>Kundu, Whitham</td>
   </tr>
      <tr>
     <td>Th 2/19</td>
     <td> The ray equations and wave modelling </td>
-    <td></td>
+    <td>Handout</td>
   </tr>
         <tr>
     <td>Tu 2/24</td>
@@ -82,27 +82,27 @@ Schedule:
     <tr>
     <td>Tu 3/3</td>
     <td> Nonlinear waves 1</td>
-    <td></td>
+    <td>Whitham</td>
   </tr>
         <tr>
     <td>Th 3/5</td>
     <td> Nonlinear waves 2</td>
-    <td></td>
+    <td>Whitham</td>
   </tr>
             <tr>
     <td>Th 3/5</td>
     <td> Lab 2: Nonlinear waves </td>
-    <td></td>
+    <td>Whitham</td>
   </tr>
         <tr>
     <td>Tu 3/10</td>
     <td> 2 layer fluid </td>
-    <td></td>
+    <td>Kundu</td>
   </tr>
         <tr>
     <td>Th 3/12</td>
         <td> Continuous stratification </td>
-    <td></td>
+    <td>Kundu, Phillips</td>
   </tr>
         <tr>
     <td>Tu 3/17</td>
