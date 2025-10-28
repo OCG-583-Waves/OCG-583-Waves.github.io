@@ -4,9 +4,7 @@ Welcome to OCG 583 Graduate Waves taught at URI GSO by Prof. Nick Pizzo. My offi
 
 Time and Location: Tuesday/Thursday 2-315: Watkins basement. 
 
-Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. For introductory books on waves, 
-Vibrations and waves by AP French. The physics of waves by H. Georgi. 
-More advanced books: Waves in fluids by Lighthill. Linear and nonlinear waves by Whitham. Fluid mechanics by Kundu and Cohen. Atmospheric and oceanic fluid dynamics by Vallis. 
+Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. For introductory books on waves, check out "Vibrations and waves" by AP French, "The physics of waves" by H. Georgi. More advanced books are "Waves in fluids" by Lighthill and "Linear and nonlinear waves" by Whitham. "Fluid mechanics" by Kundu and Cohen has background material on fluid mechanics. Finally,"Lectures on GFD" by Salmon and  "Atmospheric and oceanic fluid dynamics" by Vallis will be relevant for geophysical applications. 
 
 Lab assignments: This class will involve a number of in class demonstrations, as well as four laboratory assignments. The labs will be conducted in class and afterwards each student will be responsible for analyzing the data and writing up their results in a formal lab report. 
 
