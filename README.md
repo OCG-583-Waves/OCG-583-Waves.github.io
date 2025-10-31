@@ -173,9 +173,9 @@ Schedule:
     <td> Final project presentations 2 </td>
     <td></td>
 
+  </tr>
+</table>
 
 For student's legal rights and university obligations please see here: 
 
 ![syllabus-statements](https://github.com/user-attachments/assets/6e6dd2a0-98d5-474d-96d1-132d2f04336d)
-  </tr>
-</table>
