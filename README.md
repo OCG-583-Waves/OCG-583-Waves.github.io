@@ -2,6 +2,8 @@ OCG 583 Graduate Waves Spring 2026
 
 Welcome to OCG 583 Graduate Waves taught at URI GSO by Prof. Nick Pizzo. My office is Watkins 214
 
+The goal of this class is to introduce students to linear and nonlinear waves that exist in the ocean and atmosphere. This will include the concept of dispersion, nonlinearity, forcing and dissipation. The class will also develop student's skills in symbolic manipulation software (Mathematica), as well as conducting and analyzing laboratory experiments corroborating the developed theory. 
+
 Time and Location: Tuesday/Thursday 2-315: Watkins basement or virutal on non-lab days. 
 
 Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. For introductory books on waves, check out "Vibrations and waves" by AP French, "The physics of waves" by H. Georgi. More advanced books are "Waves in fluids" by Lighthill, "The Dynamics of the upper ocean" by Phillips and "Linear and nonlinear waves" by Whitham. "Fluid mechanics" by Kundu and Cohen has background material on fluid mechanics. Finally,"Lectures on GFD" by Salmon and  "Atmospheric and oceanic fluid dynamics" by Vallis will be relevant for geophysical applications. For math background, "Perturbation methods" by Nayfeh and Lancoz's book on "The Variational Principles of Mechanics" are useufl. 
