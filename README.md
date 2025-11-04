@@ -1,6 +1,6 @@
 OCG 583 Graduate Waves Spring 2026
 
-Welcome to OCG 583 Graduate Waves taught at URI GSO by Prof. Nick Pizzo. My office is Watkins 214
+Welcome to OCG 583 Graduate Waves taught at URI GSO by Prof. Nick Pizzo. My office is Watkins 214.
 
 The goal of this class is to introduce students to linear and nonlinear waves that exist in the ocean and atmosphere. This will include the concept of dispersion, nonlinearity, forcing and dissipation. The class will also develop student's skills in symbolic manipulation software (Mathematica), as well as conducting and analyzing laboratory experiments corroborating the developed theory. 
 
