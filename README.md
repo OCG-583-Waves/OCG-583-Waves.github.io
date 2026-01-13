@@ -41,7 +41,7 @@ Schedule:
   </tr>
     <tr>
     <td>Th 1/29 </td>
-    <td>More on the pendulum/the wave eqtn  </td>
+    <td>Spectral analysis  </td>
     <td> Georgi's book </td>
   </tr>
   <tr>
