@@ -41,12 +41,12 @@ Schedule:
   </tr>
     <tr>
     <td>Th 1/29 </td>
-    <td>Spectral analysis  </td>
+    <td>Multiple waves: phase, group and spectral analysis I  </td>
     <td> Georgi's book </td>
   </tr>
   <tr>
     <td>Tu 2/3</td>
-    <td> Group velocity: kinematics and dynamics </td>
+    <td> Multiple waves: phase, group and spectral analysis II </td>
     <td> Whitham </td>
   </tr>
     <tr>
