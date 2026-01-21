@@ -4,7 +4,7 @@ Welcome to OCG 613 (583) Graduate Waves taught at URI GSO by Prof. Nick Pizzo. M
 
 The goal of this class is to introduce students to linear and nonlinear waves that exist in the ocean and atmosphere. This will include the concept of dispersion, nonlinearity, forcing and dissipation. The class will also develop student's skills in symbolic manipulation software (Mathematica), data analysis (eg Fourier transforms and spectral analysis) as well as conducting and analyzing laboratory experiments corroborating the developed theory. 
 
-Time and Location: Tuesday/Thursday 2-315: Watkins basement.  
+Time and Location: Tuesday/Thursday 2-315: OSEC 202.  
 
 Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. There are many online resources that are useful, including Rick Salmon's [notes on waves](https://pordlabs.ucsd.edu/rsalmon/111.textbook.pdf) and Fabrice Ardhuin's [textbook](https://github.com/ardhuin/waves_in_geosciences/blob/main/part1and2.pdf) on surface gravity waves. 
 
