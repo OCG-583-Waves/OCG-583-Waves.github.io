@@ -6,7 +6,7 @@ The goal of this class is to introduce students to linear and nonlinear waves th
 
 Time and Location: Tuesday/Thursday 2-315: OSEC 202.  
 
-Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. There are many online resources that are useful, including Rick Salmon's [notes on waves](https://pordlabs.ucsd.edu/rsalmon/111.textbook.pdf) and Fabrice Ardhuin's [textbook](https://github.com/ardhuin/waves_in_geosciences/blob/main/part1and2.pdf) on surface gravity waves. 
+Textbooks: There is not one textbook that will cover all of this material. More generally, those who study waves in the ocean often return to simpler systems. There are many online resources that are useful, including Rick Salmon's [notes on waves](https://pordlabs.ucsd.edu/rsalmon/111.textbook.pdf), Myrl Hendershott's notes on [ocean waves](https://oxbow.sr.unh.edu/ChapmanRizzoli/Wave_Motions_in_the_Ocean.html) and Fabrice Ardhuin's [textbook](https://github.com/ardhuin/waves_in_geosciences/blob/main/part1and2.pdf) on surface gravity waves. 
 
 For introductory textbooks on waves, check out "Vibrations and waves" by AP French, "The physics of waves" by H. Georgi. More advanced books are "Waves in fluids" by Lighthill, "The Dynamics of the upper ocean" by Phillips and "Linear and nonlinear waves" by Whitham. "Fluid mechanics" by Kundu and Cohen has background material on fluid mechanics. Finally,"Lectures on GFD" by Salmon and  "Atmospheric and oceanic fluid dynamics" by Vallis will be relevant for geophysical applications. For math background, "Perturbation methods" by Nayfeh and Lancoz's book on "The Variational Principles of Mechanics" are useful. 
 
