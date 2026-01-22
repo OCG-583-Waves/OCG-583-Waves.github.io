@@ -31,7 +31,7 @@ Schedule:
   <tr>
     <td>Th 1/22</td>
     <td>Waves in the ocean</td>
-    <td> No notes </td>
+    <td> [here](https://drive.google.com/drive/folders/1OeHd4d6isW4MBd_gZ9AvYUE-2thbwRvA?usp=sharing) </td>
   </tr>
   <tr>
     <td>Tu 1/27 </td>
