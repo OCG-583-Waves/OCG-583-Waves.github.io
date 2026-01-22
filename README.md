@@ -31,7 +31,7 @@ Schedule:
   <tr>
     <td>Th 1/22</td>
     <td>Waves in the ocean</td>
-    <td> [No Notes](https://its.uri.edu/services/it-service-mathematica/) </td>
+    <td> No notes </td>
   </tr>
   <tr>
     <td>Tu 1/27 </td>
