@@ -2,7 +2,7 @@ OCG 613 (soon to be 583) Graduate Waves Spring 2026
 
 Welcome to OCG 613 (583) Graduate Waves taught at URI GSO by Prof. Nick Pizzo. My office is Watkins 214.
 
-The goal of this class is to introduce students to linear and nonlinear waves that exist in the ocean and atmosphere. This will include the concept of dispersion, nonlinearity, forcing and dissipation. The class will also develop student's skills in symbolic manipulation software (Mathematica), data analysis (eg Fourier transforms and spectral analysis) as well as conducting and analyzing laboratory experiments corroborating the developed theory. 
+The goal of this class is to introduce students to linear and nonlinear waves that exist in the ocean and atmosphere. This will include the concept of dispersion, nonlinearity, forcing and dissipation. The class will also develop student's skills in symbolic manipulation software (Mathematica), data analysis (eg Fourier transforms and spectral analysis) as well as conducting and analyzing laboratory experiments corroborating the developed theory. The lecture notes will be kept in a google drive, and are available [here](https://drive.google.com/drive/folders/1OeHd4d6isW4MBd_gZ9AvYUE-2thbwRvA?usp=sharing). 
 
 Time and Location: Tuesday/Thursday 2-315: OSEC 202.  
 
