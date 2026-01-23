@@ -31,7 +31,7 @@ Schedule:
   <tr>
     <td>Th 1/22</td>
     <td>Waves in the ocean</td>
-   <td> <a href="https://drive.google.com/drive/folders/1YBYg-yxhaYqIMCO_L8yxF2ddlKfF8wVm?usp=drive_link">Slides</a>,<a href="https://drive.google.com/file/d/1sWAzq2IDfPGwq3XcjfkLUpB57lEBxn3c/view?usp=drive_link">Handout</a>, <a href="https://drive.google.com/file/d/1sSF9BO6dXN3ihToeTgCKTuoFmCaqqr75/view?usp=drive_link">HW1</a> </td>
+   <td> <a href="https://drive.google.com/drive/folders/1YBYg-yxhaYqIMCO_L8yxF2ddlKfF8wVm?usp=drive_link">Slides</a>,<a href="https://drive.google.com/file/d/1sWAzq2IDfPGwq3XcjfkLUpB57lEBxn3c/view?usp=drive_link">Handout</a>, <a href="https://drive.google.com/file/d/1sSF9BO6dXN3ihToeTgCKTuoFmCaqqr75/view?usp=drive_link">HW1 (due 1/27)</a> </td>
   </tr>
 
   <tr>
