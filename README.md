@@ -31,13 +31,9 @@ Schedule:
   <tr>
     <td>Th 1/22</td>
     <td>Waves in the ocean</td>
-   <td> <a href="https://drive.google.com/drive/folders/1OeHd4d6isW4MBd_gZ9AvYUE-2thbwRvA?usp=sharing">Slides</a> </td>
+   <td> <a href="https://drive.google.com/drive/folders/1OeHd4d6isW4MBd_gZ9AvYUE-2thbwRvA?usp=sharing">Slides</a>, <a href="https://drive.google.com/drive/folders/1lBOYYmIbHQZGE4CDUv7LRPIP8-xrMZM3?usp=sharing">HW1</a> </td>
   </tr>
-      <tr>
-    <td>Th 1/22</td>
-    <td>HW1n</td>
-   <td> <a href="https://drive.google.com/drive/folders/1lBOYYmIbHQZGE4CDUv7LRPIP8-xrMZM3?usp=sharing">Slides</a> </td>
-  </tr>
+
   <tr>
     <td>Tu 1/27 </td>
     <td>Properties of harmonic oscillators
