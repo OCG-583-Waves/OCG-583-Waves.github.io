@@ -38,7 +38,7 @@ Schedule:
     <td>Tu 1/27 </td>
     <td>Properties of harmonic oscillators
     </td>
-    <td> Georgi's book </td>
+    <td> <a href="https://ocw.mit.edu/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ef731c1b91d77a6db003f6c27e300d25_MIT8_03SCF16_Textbook.pdf">Georgi's book</a> </td>
   </tr>
     <tr>
     <td>Th 1/29 </td>
