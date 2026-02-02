@@ -42,13 +42,13 @@ Schedule:
   </tr>
     <tr>
     <td>Th 1/29 </td>
-    <td>Multiple waves: phase, group and spectral analysis I  </td>
+    <td>Phase and group velocity  </td>
     <td> <a href="https://drive.google.com/file/d/1WiopjovVIlI9VOukTtNVCQY20_bJohRI/view?usp=sharing">Mathematica notebook on the pendulum</a> </td>
   </tr>
   <tr>
     <td>Tu 2/3</td>
-    <td> Multiple waves: phase, group and spectral analysis II </td>
-    <td> Whitham </td>
+    <td> Spectral analysis </td>
+    <td> Ardhuin's book, Ch 3 </td>
   </tr>
     <tr>
     <td>Th 2/5</td>
