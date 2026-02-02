@@ -43,7 +43,7 @@ Schedule:
     <tr>
     <td>Th 1/29 </td>
     <td>Multiple waves: phase, group and spectral analysis I  </td>
-    <td> Georgi's book </td>
+    <td> <a href="https://drive.google.com/file/d/1WiopjovVIlI9VOukTtNVCQY20_bJohRI/view?usp=sharing">Mathematica notebook on the pendulum</a> </td>
   </tr>
   <tr>
     <td>Tu 2/3</td>
