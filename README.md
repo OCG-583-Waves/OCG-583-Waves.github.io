@@ -48,7 +48,7 @@ Schedule:
   <tr>
     <td>Tu 2/3</td>
     <td> Spectral analysis </td>
-    <td> Ardhuin's book, Ch 3, <a href="https://drive.google.com/file/d/1WAoQsiWiy0zi6JZQWTKyXPlen6CUC_UV/view?usp=sharing">HW3</a> </td>
+    <td> Ardhuin's book Ch 3, <a href="https://drive.google.com/file/d/1WAoQsiWiy0zi6JZQWTKyXPlen6CUC_UV/view?usp=sharing">HW3</a> </td>
   </tr>
     <tr>
     <td>Th 2/5</td>
