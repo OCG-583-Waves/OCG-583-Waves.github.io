@@ -43,7 +43,7 @@ Schedule:
     <tr>
     <td>Th 1/29 </td>
     <td>Phase and group velocity  </td>
-    <td> <a href="https://drive.google.com/file/d/1WiopjovVIlI9VOukTtNVCQY20_bJohRI/view?usp=sharing">Mathematica notebook on the pendulum</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1WiopjovVIlI9VOukTtNVCQY20_bJohRI/view?usp=sharing">Mathematica notebook on the pendulum</a>, <a href="https://drive.google.com/file/d/1rX0bmtB0xN6gSG_tQaUoMc2Nmy5DZwH9/view?usp=drive_link">Some notes on phase and group velocity </a> </td>
   </tr>
   <tr>
     <td>Tu 2/3</td>
