@@ -52,7 +52,7 @@ Schedule:
   </tr>
     <tr>
     <td>Th 2/5</td>
-    <td> Surface gravity waves 1 </td>
+    <td> Surface gravity waves 1 <a href="https://drive.google.com/file/d/17HpekCNqsBIC7wxJg_cFyrx6xKk-XSGj/view?usp=sharing">Notes on Fourier transforms/spectra</a> </td>
     <td>Kundu, Whitham </td>
   </tr>
     <tr>
