@@ -58,7 +58,7 @@ Schedule:
     <tr>
     <td>Tu 2/10</td>
     <td> Surface gravity waves </td>
-    <td><a href="https://drive.google.com/file/d/1Ak_hNTC_c3NwyLqieh0gOLd5L-E0Rg_W/view?usp=drive_link">Notes</a>Kundu, Whitham </td>
+    <td><a href="https://drive.google.com/file/d/1Ak_hNTC_c3NwyLqieh0gOLd5L-E0Rg_W/view?usp=drive_link">Notes</a>, Kundu, Whitham </td>
      <tr>
     <td>Th 2/12</td>
     <td> <a href="https://drive.google.com/file/d/1rwscyy3cOFjv0WABImyFDR2KutkG3mTq/view?usp=drive_link">Lab 1: surface waves</a> </td>
