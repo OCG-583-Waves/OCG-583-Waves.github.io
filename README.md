@@ -61,7 +61,7 @@ Schedule:
     <td>Kundu, Whitham </td>
      <tr>
     <td>Th 2/12</td>
-    <td> Lab 1: surface waves </td>
+    <td> <a href="https://drive.google.com/file/d/1rwscyy3cOFjv0WABImyFDR2KutkG3mTq/view?usp=drive_link">Lab 1: surface waves</a> </td>
     <td>Kundu, Whitham</td>
   </tr>
     <tr>
