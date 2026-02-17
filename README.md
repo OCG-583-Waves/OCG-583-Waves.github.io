@@ -66,12 +66,12 @@ Schedule:
   </tr>
     <tr>
     <td>Tu 2/17</td>
-    <td> Surface wave dynamics </td>
+    <td> Conduct Lab 1 (due Tuesday March 3) </td>
     <td>Kundu, Whitham</td>
   </tr>
      <tr>
     <td>Th 2/19</td>
-    <td> The ray equations and wave modelling </td>
+    <td> Surface wave dynamics  </td>
     <td>Handout</td>
   </tr>
         <tr>
