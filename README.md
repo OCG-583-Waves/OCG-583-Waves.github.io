@@ -86,27 +86,22 @@ Schedule:
   </tr>
     <tr>
     <td>Tu 3/3</td>
+    <td> Wave kinematics</td>
+    <td>Whitham</td>
+  </tr>
+        <tr>
+    <td>Th 3/5</td>
     <td> Nonlinear waves 1</td>
     <td>Whitham</td>
   </tr>
         <tr>
-    <td>Th 3/5</td>
-    <td> Nonlinear waves 2</td>
-    <td>Whitham</td>
-  </tr>
-            <tr>
-    <td>Th 3/5</td>
-    <td> Lab 2: Nonlinear waves </td>
-    <td>Whitham</td>
-  </tr>
-        <tr>
     <td>Tu 3/10</td>
-    <td> 2 layer fluid </td>
+    <td> Nonlinear waves 2 </td>
     <td>Kundu</td>
   </tr>
         <tr>
     <td>Th 3/12</td>
-        <td> Continuous stratification </td>
+        <td> Nonlinear waves lab </td>
     <td>Kundu, Phillips</td>
   </tr>
         <tr>
@@ -121,21 +116,21 @@ Schedule:
   </tr>
         <tr>
     <td>Tu 3/23</td>
-    <td> Reflections </td>
+    <td> Two Layer fluid </td>
     <td>Phillips</td>
   </tr>
     <tr>
     <td>Th 3/25</td>
-    <td>Lab 3: internal waves </td>
+    <td>Midterm </td>
     <td>Phillips, Kundu</td>
         <tr>
     <td>Tu 3/30</td>
-    <td> Wave current interaction 1 </td>
+    <td> Continuous stratification </td>
     <td>Phillips</td>
   </tr>
       <tr>
     <td>Th 4/1</td>
-    <td>  Wave current interaction 2 </td>
+    <td>  Lab 3: Internal Waves </td>
     <td>Phillips</td>
   </tr>
           <tr>
