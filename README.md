@@ -115,61 +115,61 @@ Schedule:
     <td></td>
   </tr>
         <tr>
-    <td>Tu 3/23</td>
+    <td>Tu 3/24</td>
     <td> Two Layer fluid </td>
     <td>Phillips</td>
   </tr>
     <tr>
-    <td>Th 3/25</td>
+    <td>Th 3/26</td>
     <td>Midterm </td>
     <td>Phillips, Kundu</td>
         <tr>
-    <td>Tu 3/30</td>
+    <td>Tu 3/31</td>
     <td> Continuous stratification </td>
     <td>Phillips</td>
   </tr>
       <tr>
-    <td>Th 4/1</td>
+    <td>Th 4/2</td>
     <td>  Lab 3: Internal Waves </td>
     <td>Phillips</td>
   </tr>
           <tr>
-    <td>Tu 4/3</td>
+    <td>Tu 4/7</td>
     <td>Shallow water equations  </td>
     <td>Kundu</td>
   </tr>
     <tr>
-    <td>Tu 4/8</td>
+    <td>Th 4/9</td>
     <td> Rossby waves/planetary waves </td>
     <td>Vallis, Salmon</td>
   </tr>
         <tr>
-    <td>Th 4/10</td>
+    <td>Tu 4/14</td>
     <td> Topographic waves</td>
     <td>Vallis, Salmon</td>
   </tr>
             <tr>
-    <td>Tu 4/15</td>
+    <td>Th 4/16</td>
     <td> Kelvin waves </td>
     <td>Kundu, Vallis, Salmon</td>
   </tr>
             <tr>
-    <td>Th 4/17</td>
+    <td>Tu 4/21</td>
     <td> Equatorial waves</td>
     <td>Vallis</td>
   </tr>
             <tr>
-    <td>Tu 4/22</td>
+    <td>Th 4/23</td>
     <td>Lab 4: planetary waves </td>
     <td>Vallis, Salmon</td>
   </tr>
             <tr>
-    <td>Th 4/24</td>
+    <td>Tu 4/28</td>
     <td> Final project presentations 1</td>
     <td></td>
   </tr>
             <tr>
-    <td>Tu 4/29</td>
+    <td>Th 4/30</td>
     <td> Final project presentations 2 </td>
     <td></td>
 
