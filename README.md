@@ -71,8 +71,8 @@ Schedule:
   </tr>
      <tr>
     <td>Th 2/19</td>
-    <td> Surface wave dynamics  </td>
-    <td>Handout</td>
+    <td> Lab 1 continued  </td>
+    <td></td>
   </tr>
         <tr>
     <td>Tu 2/24</td>
