@@ -102,7 +102,7 @@ Schedule:
         <tr>
     <td>Th 3/12</td>
         <td> Lab 2: Solitary waves  </td>
-    <td>Kundu, Phillips</td>
+    <td>Notes </td>
   </tr>
         <tr>
     <td>Tu 3/17</td>
@@ -117,7 +117,7 @@ Schedule:
         <tr>
     <td>Tu 3/24</td>
     <td> Midterm </td>
-    <td>Phillips</td>
+    <td></td>
   </tr>
     <tr>
     <td>Th 3/26</td>
