@@ -101,7 +101,7 @@ Schedule:
   </tr>
         <tr>
     <td>Th 3/12</td>
-        <td> Nonlinear waves lab </td>
+        <td> Midterm </td>
     <td>Kundu, Phillips</td>
   </tr>
         <tr>
@@ -116,12 +116,12 @@ Schedule:
   </tr>
         <tr>
     <td>Tu 3/24</td>
-    <td> Two Layer fluid </td>
+    <td> Lab 2: Solitary waves </td>
     <td>Phillips</td>
   </tr>
     <tr>
     <td>Th 3/26</td>
-    <td>Midterm </td>
+    <td>Two layer fluid </td>
     <td>Phillips, Kundu</td>
         <tr>
     <td>Tu 3/31</td>
