@@ -97,12 +97,12 @@ Schedule:
         <tr>
     <td>Tu 3/10</td>
     <td> Nonlinear waves 2 </td>
-    <td>Kundu</td>
+    <td>Whitham, Kundu</td>
   </tr>
         <tr>
     <td>Th 3/12</td>
         <td> Lab 2: Solitary waves  </td>
-    <td>Notes </td>
+    <td> </td>
   </tr>
         <tr>
     <td>Tu 3/17</td>
