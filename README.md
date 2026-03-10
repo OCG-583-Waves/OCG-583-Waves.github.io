@@ -92,11 +92,11 @@ Schedule:
         <tr>
     <td>Th 3/5</td>
     <td> Nonlinear waves 1</td>
-    <td>Whitham</td>
+    <td>Forced and nonlinear harmonic oscillator</td>
   </tr>
         <tr>
     <td>Tu 3/10</td>
-    <td> Nonlinear waves 2 </td>
+    <td> KdV equation </td>
     <td>Whitham, Kundu</td>
   </tr>
         <tr>
