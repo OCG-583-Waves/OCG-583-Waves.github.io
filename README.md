@@ -117,7 +117,7 @@ Schedule:
         <tr>
     <td>Tu 3/24</td>
     <td> Midterm </td>
-    <td></td>
+    <td>Available Monday 3/23 at noon: due Weds 3/25 at noon</td>
   </tr>
     <tr>
     <td>Th 3/26</td>
