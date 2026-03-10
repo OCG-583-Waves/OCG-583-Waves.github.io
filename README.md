@@ -97,7 +97,7 @@ Schedule:
         <tr>
     <td>Tu 3/10</td>
     <td> KdV equation </td>
-    <td>Whitham, Kundu</td>
+    <td>Whitham, Kundu, <a href="https://www.jstor.org/stable/pdf/41134176.pdf">Spirited Horse</a></td>
   </tr>
         <tr>
     <td>Th 3/12</td>
