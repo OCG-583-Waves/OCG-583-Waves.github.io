@@ -87,22 +87,22 @@ Schedule:
     <tr>
     <td>Tu 3/3</td>
     <td> Wave kinematics</td>
-    <td>Whitham, <a href="https://drive.google.com/file/d/1kXiRUj3oaweOQFg5DdJPuSgXhAOVBTvD/view?usp=sharing">HW 4 (Due 3/12)</a></td>
+    <td>Whitham,<a href="https://drive.google.com/file/d/1aE0ENtdbeOWhsjP_nwj8qVkSFkxRXq_8/view?usp=drive_link"> Notes</a> <a href="https://drive.google.com/file/d/1kXiRUj3oaweOQFg5DdJPuSgXhAOVBTvD/view?usp=sharing">HW 4 (Due 3/12)</a></td>
   </tr>
         <tr>
     <td>Th 3/5</td>
     <td> Nonlinear waves 1</td>
-    <td>Forced and nonlinear harmonic oscillator</td>
+    <td><a href="https://drive.google.com/file/d/17k2eU8whMCbKZazekoKVNatmlXA4wewa/view?usp=drive_link">Forced and nonlinear harmonic oscillator</a></td>
   </tr>
         <tr>
     <td>Tu 3/10</td>
     <td> KdV equation </td>
-    <td>Whitham, Kundu, <a href="https://www.jstor.org/stable/pdf/41134176.pdf">Spirited Horse</a></td>
+    <td><a href="https://drive.google.com/file/d/1nztuC1YQrihBWFEmRkvsh-bL1LuTOAlM/view?usp=drive_link">Notes</a>, Whitham, Kundu, <a href="https://www.jstor.org/stable/pdf/41134176.pdf">Spirited Horse</a></td>
   </tr>
         <tr>
     <td>Th 3/12</td>
         <td> Lab 2: Solitary waves  </td>
-    <td> </td>
+    <td> <a href="https://drive.google.com/file/d/1RoRasxoZ4GuHQCuZ8zj7Bsn3vIYnZPs-/view?usp=drive_link">Lab 2 Handout (due 3/31)</a> </td>
   </tr>
         <tr>
     <td>Tu 3/17</td>
