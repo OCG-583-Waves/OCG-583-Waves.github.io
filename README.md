@@ -87,7 +87,7 @@ Schedule:
     <tr>
     <td>Tu 3/3</td>
     <td> Wave kinematics</td>
-    <td>Whitham,<a href="https://drive.google.com/file/d/1aE0ENtdbeOWhsjP_nwj8qVkSFkxRXq_8/view?usp=drive_link"> Notes</a> <a href="https://drive.google.com/file/d/1kXiRUj3oaweOQFg5DdJPuSgXhAOVBTvD/view?usp=sharing">HW 4 (Due 3/12)</a></td>
+    <td>Whitham,<a href="https://drive.google.com/file/d/1aE0ENtdbeOWhsjP_nwj8qVkSFkxRXq_8/view?usp=drive_link"> Notes</a>, <a href="https://drive.google.com/file/d/1kXiRUj3oaweOQFg5DdJPuSgXhAOVBTvD/view?usp=sharing">HW 4 (Due 3/12)</a></td>
   </tr>
         <tr>
     <td>Th 3/5</td>
