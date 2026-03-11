@@ -117,7 +117,7 @@ Schedule:
         <tr>
     <td>Tu 3/24</td>
     <td> Midterm: no class, office hour </td>
-    <td>Available Monday 3/23 at noon: due Weds 3/25 at noon</td>
+    <td>Available Monday 3/23 at noon: due Weds 3/25 at noon. No class but I will hold an office hour then</td>
   </tr>
     <tr>
     <td>Th 3/26</td>
