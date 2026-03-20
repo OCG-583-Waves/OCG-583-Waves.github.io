@@ -155,12 +155,12 @@ Schedule:
   </tr>
             <tr>
     <td>Tu 4/21</td>
-    <td> Equatorial waves</td>
-    <td>Vallis</td>
+    <td> Lab 4: planetary waves </td>
+    <td>Vallis, Salmon</td>
   </tr>
             <tr>
     <td>Th 4/23</td>
-    <td>Lab 4: planetary waves </td>
+    <td>Equatorial waves</td>
     <td>Vallis, Salmon</td>
   </tr>
             <tr>
