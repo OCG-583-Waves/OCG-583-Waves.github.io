@@ -102,7 +102,7 @@ Schedule:
         <tr>
     <td>Th 3/12</td>
         <td> Lab 2: Solitary waves  </td>
-    <td> <a href="https://drive.google.com/file/d/1RoRasxoZ4GuHQCuZ8zj7Bsn3vIYnZPs-/view?usp=drive_link">Lab 2 Handout (due 3/31)</a> </td>
+    <td> <a href="https://drive.google.com/file/d/1RoRasxoZ4GuHQCuZ8zj7Bsn3vIYnZPs-/view?usp=drive_link">Lab 2 Handout (due 3/31)</a> , <a href="https://people.maths.ox.ac.uk/trefethen/spectral.html">For the KdV numerical solver, see p27.m on this site</a> </td>
   </tr>
         <tr>
     <td>Tu 3/17</td>
