@@ -121,21 +121,21 @@ Schedule:
   </tr>
     <tr>
     <td>Th 3/26</td>
-    <td>Two layer fluid </td>
+    <td>Review HW4, Two layer fluid </td>
     <td>Phillips, Kundu</td>
         <tr>
     <td>Tu 3/31</td>
-    <td> Continuous stratification </td>
+    <td> Lab 2 due. Two layer fluid/Continuous stratification </td>
     <td>Phillips</td>
   </tr>
       <tr>
     <td>Th 4/2</td>
-    <td>  Lab 3: Internal Waves </td>
+    <td>  Continous stratification </td>
     <td>Phillips</td>
   </tr>
           <tr>
     <td>Tu 4/7</td>
-    <td>Shallow water equations  </td>
+    <td>Lab 3: Internal Waves  </td>
     <td>Kundu</td>
   </tr>
     <tr>
