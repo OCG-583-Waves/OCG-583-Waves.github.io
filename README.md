@@ -121,7 +121,7 @@ Schedule:
   </tr>
     <tr>
     <td>Th 3/26</td>
-    <td>Review HW4, Two layer fluid </td>
+    <td>Review HW4, Two layer fluid: Kundu and Cohen. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.fl.11.010179.002011">Internal waves in the ocean </a> </td>
     <td>Phillips, Kundu</td>
         <tr>
     <td>Tu 3/31</td>
