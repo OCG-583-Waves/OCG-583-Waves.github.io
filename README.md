@@ -121,8 +121,8 @@ Schedule:
   </tr>
     <tr>
     <td>Th 3/26</td>
-    <td>Review HW4, Two layer fluid: Kundu and Cohen. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.fl.11.010179.002011">Internal waves in the ocean </a> </td>
-    <td>Phillips, Kundu</td>
+    <td>Review HW4, Two layer fluid: Kundu and Cohen. </td>
+    <td>Phillips, Kundu, <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.fl.11.010179.002011">Internal waves in the ocean </a> </td>
         <tr>
     <td>Tu 3/31</td>
     <td> Lab 2 due. Two layer fluid/Continuous stratification </td>
