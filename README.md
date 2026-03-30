@@ -122,7 +122,7 @@ Schedule:
     <tr>
     <td>Th 3/26</td>
     <td>Review HW4, Two layer fluid: Kundu and Cohen. </td>
-    <td><a href="https://drive.google.com/file/d/1vDYhzSI9BQ2SpVR4pgGh43-Nn8n8QeQv/view?usp=drive_link">Slides </a>, Phillips, Kundu, <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.fl.11.010179.002011">Internal waves in the ocean </a> </td>
+    <td><a href="https://drive.google.com/file/d/1vDYhzSI9BQ2SpVR4pgGh43-Nn8n8QeQv/view?usp=drive_link">Slides </a>, <a href="https://drive.google.com/file/d/1gPmi5CZF_9LR7YIkGXzs9292--21UbSt/view?usp=drive_link"> Lecture notes</a>, Phillips, Kundu, <a href="https://www.annualreviews.org/content/journals/10.1146/annurev.fl.11.010179.002011">Internal waves in the ocean </a> </td>
         <tr>
     <td>Tu 3/31</td>
     <td> Lab 2 due. Two layer fluid/Continuous stratification </td>
