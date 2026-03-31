@@ -130,7 +130,7 @@ Schedule:
   </tr>
       <tr>
     <td>Th 4/2</td>
-    <td>  Continous stratification </td>
+    <td>  Continous stratification/Kelvin Helmholtz </td>
     <td>Phillips</td>
   </tr>
           <tr>
