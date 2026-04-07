@@ -135,22 +135,22 @@ Schedule:
   </tr>
           <tr>
     <td>Tu 4/7</td>
-    <td>Lab 3: Internal Waves  </td>
+    <td>Lab 3: Internal Waves, <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/visualization-and-measurement-of-internal-waves-by-synthetic-schlieren-part-1-vertically-oscillating-cylinder/9E0C743301CCB91DE45EE24820F676A3">Sutherland et al.</a>   </td>
     <td>Kundu</td>
   </tr>
     <tr>
     <td>Th 4/9</td>
-    <td> Rossby waves/planetary waves </td>
-    <td>Vallis, Salmon</td>
+    <td> Lab 3: Internal waves </td>
+    <td>Kundu</td>
   </tr>
         <tr>
     <td>Tu 4/14</td>
-    <td> Topographic waves</td>
+    <td> Rossby waves/planetary waves</td>
     <td>Vallis, Salmon</td>
   </tr>
             <tr>
     <td>Th 4/16</td>
-    <td> Kelvin waves </td>
+    <td> Kelvin waves/Topographic waves </td>
     <td>Kundu, Vallis, Salmon</td>
   </tr>
             <tr>
