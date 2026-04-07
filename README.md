@@ -135,8 +135,8 @@ Schedule:
   </tr>
           <tr>
     <td>Tu 4/7</td>
-    <td>Lab 3 <a href="https://drive.google.com/file/d/1Wc1eqwuWvTeRuPbUvo3MH3Wrn_8oqdYA/view?usp=sharing">handout</a>: Internal Waves </td>
-    <td>Kundu, <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/visualization-and-measurement-of-internal-waves-by-synthetic-schlieren-part-1-vertically-oscillating-cylinder/9E0C743301CCB91DE45EE24820F676A3">Sutherland et al.</a></td>
+    <td>Lab 3: Internal Waves </td>
+    <td> <a href="https://drive.google.com/file/d/1Wc1eqwuWvTeRuPbUvo3MH3Wrn_8oqdYA/view?usp=sharing">Lab 3 handout</a>Kundu, <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/visualization-and-measurement-of-internal-waves-by-synthetic-schlieren-part-1-vertically-oscillating-cylinder/9E0C743301CCB91DE45EE24820F676A3">Sutherland et al.</a></td>
   </tr>
     <tr>
     <td>Th 4/9</td>
