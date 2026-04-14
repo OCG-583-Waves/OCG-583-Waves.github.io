@@ -131,7 +131,7 @@ Schedule:
       <tr>
     <td>Th 4/2</td>
     <td>  Continous stratification/Kelvin Helmholtz </td>
-    <td>Phillips, Kundu, Vallis</td>
+    <td><a href="https://drive.google.com/file/d/11qOWAd5ba0bhkbH-r2bIwVgyTD-FFVL7/view?usp=drive_link">Notes</a>, Phillips, Kundu, Vallis</td>
   </tr>
           <tr>
     <td>Tu 4/7</td>
