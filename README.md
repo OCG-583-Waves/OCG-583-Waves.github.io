@@ -126,7 +126,7 @@ Schedule:
         <tr>
     <td>Tu 3/31</td>
     <td> Lab 2 due. Two layer fluid/Continuous stratification </td>
-    <td>Phillips</td>
+    <td><a href="https://drive.google.com/file/d/1gPmi5CZF_9LR7YIkGXzs9292--21UbSt/view?usp=drive_link">Notes</a>, Phillips</td>
   </tr>
       <tr>
     <td>Th 4/2</td>
