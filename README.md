@@ -146,7 +146,7 @@ Schedule:
         <tr>
     <td>Tu 4/14</td>
     <td> Rossby waves/planetary waves</td>
-    <td>Vallis, Salmon</td>
+    <td>Vallis, Salmon,<a href="https://drive.google.com/file/d/1OjDVGE-Wwm1zhll_KO_21f4WQioLG92N/view?usp=drive_link"> Tom's paper</a> </td>
   </tr>
             <tr>
     <td>Th 4/16</td>
