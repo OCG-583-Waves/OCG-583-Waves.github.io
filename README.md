@@ -150,7 +150,7 @@ Schedule:
   </tr>
             <tr>
     <td>Th 4/16</td>
-    <td> Kelvin waves/Topographic waves </td>
+    <td> Topographic Rossby waves </td>
     <td>Kundu, Vallis, Salmon</td>
   </tr>
             <tr>
